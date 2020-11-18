@@ -2,7 +2,8 @@
 <h3 align="center">|| Web Developer || Front-end Developer || Native Developer</h3>
 <hr background="linear-gradient(red,blue)">
 <p><img align="right" display="block" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="logo" height="300" width="350"/></p>
-- 🔭 I’m currently working on **Web Development**
+
+- 🔭 I’m currently working on **Web-Development**
 
 - 🌱 I’m currently learning **React-JS**
 
