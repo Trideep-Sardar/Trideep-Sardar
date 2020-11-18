@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trideep Sardar</h1>
 <h3 align="center">Web Developer, Front-end Developer, Native Developer</h3>
-<p><img align="right" display="block" src="https://raw.githubusercontent.com/manangadwal/manangadwal/master/gif3.gif" alt="logo" height="400" width="400"/></p>
+<p><img align="right" display="block" src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6" alt="logo" height="400" width="400"/></p>
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **React-JS**
