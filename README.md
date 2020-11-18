@@ -1,5 +1,5 @@
-### Hi👋,I'm Trideep Sardar
-### Web Developer, Front-end Developer, Native Developer
+###                     Hi👋,I'm Trideep Sardar
+###     Web Developer, Front-end Developer, Native Developer
 
 - 🔭 I’m currently working on Web-Development(developing level)
 - 🌱 I’m currently learning React-js
